@@ -1,4 +1,4 @@
-# Winform
+# Phần mềm Email-Marketing
 Sử dụng ngôn ngữ C# để viết phần mềm. 
 Phần mềm đáp ứng được nhu cầu gửi mail cho nhiều người cùng 1 lúc. 
 Xuất được danh sách khách hàng ra màn hình
